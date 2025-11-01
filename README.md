@@ -5,7 +5,7 @@ An interactive **Power BI dashboard** analyzing India’s rainfall data from **1
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](screenshots/india_rainfall_dashboard.png)
+![Dashboard Screenshot](india_rainfall_dashboard.png)
 
 ---
 
